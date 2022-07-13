@@ -9,8 +9,9 @@ public class Main {
         } else {
             bonus = 0;
         }
-        int finalAmount = initialAmount+refillAmount+bonus;
+        int finalAmount = initialAmount + refillAmount + bonus;
         System.out.println("Итоговый счет: " + finalAmount);
         System.out.println("Бонус: " + bonus);
     }
 }
+ы
